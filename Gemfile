@@ -61,7 +61,7 @@ gem 'popper_js', '~> 1.11.1'
 gem 'bootstrap', '4.0.0.alpha6'
 gem 'simple_form'
 gem 'devise'
-gem "factory_bot_rails"
+gem 'factory_bot_rails', '~> 4.0'
 gem 'carrierwave', '~> 1.0'
 gem "figaro"
 gem "fog-aws"

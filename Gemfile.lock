@@ -239,7 +239,7 @@ DEPENDENCIES
   carrierwave (~> 1.0)
   coffee-rails (~> 4.2)
   devise
-  factory_bot_rails
+  factory_bot_rails (~> 4.0)
   figaro
   fog-aws
   jbuilder (~> 2.5)
